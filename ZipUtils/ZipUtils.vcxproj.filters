@@ -21,18 +21,18 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Downloads\Musics 2car\zip_utils_src\unzip.h">
+    <ClInclude Include="unzip.h">
       <Filter>Resource Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Downloads\Musics 2car\zip_utils_src\zip.h">
+    <ClInclude Include="zip.h">
       <Filter>Resource Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\Musics 2car\zip_utils_src\unzip.cpp">
+    <ClCompile Include="zip.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\Musics 2car\zip_utils_src\zip.cpp">
+    <ClCompile Include="unzip.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
